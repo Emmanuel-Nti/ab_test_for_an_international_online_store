@@ -8,7 +8,7 @@
 | :---------------------- | :---------------------- | :---------------------- | 
 |I have received an analytical task from an international online store. My predecessor failed to complete it: they launched an A/B test and then quit (to start a watermelon farm in Brazil). They left only the technical specifications and the test results. The purpose is to test changes related to the introduction of an improved recommendation system.| *Pandas*, *Matplotlib.pyplot*, *Plotly*, *Seaborn*, *Numpy*, *Scipy* | Practicum by Yandex |
 
-## Technical description
+## Technical Description
 
 - Test name: `recommender_system_test`
 - Groups: А (control), B (new payment funnel)
