@@ -1,9 +1,9 @@
-# Customer Churn Prediction
+# A/B Test for an International Online Store
 <p align ="center">
    <img src = "ab.png" width="1000" 
      height="500">
  </p>
-## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/customer_churn_prediction_and_retention_strategy/blob/master/customer_churn_nti.ipynb)
+## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/ab_test_for_an_international_online_store/blob/master/ab_test_for_international_store.ipynb)
 
 ## How I Approached the Project
 - Importation of the data and Libraries
@@ -24,8 +24,8 @@
  </p>
  
 ## General Findings
-- The EU participants dominate all other regions in the sample.
-- The maximum order total in USD for purchase events is about 500, and the min is about 5 dollars, with a mean of about 23.88 dollars and a standard deviation of about 72.22.
+- The EU participants dominated all other regions in the sample.
+- The maximum order total for purchase events is about $500.00, and the minimum is about $5.00, with a mean of about $23.88 and a standard deviation of about 72.22.
 - About 66% of users proceed from login to the product page; about 50% of those at the product page proceed to purchase.
 - About 15% of customers proceed to purchase without putting the product in the cart.
 - About 33.33% of users convert.
