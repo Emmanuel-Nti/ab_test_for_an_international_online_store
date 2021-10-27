@@ -1,4 +1,5 @@
 # A/B Test for an International Online Store
+### [Project Summary]( https://emmanuel-nti.github.io/ab_test_for_an_international_online_store/)
 
 ### For better view of graphs, click 👉 [A/B Test for an International Online Store](https://nbviewer.jupyter.org/github/Emmanuel-Nti/ab_test_for_an_international_online_store/blob/master/ab_test_for_international_store.ipynb)
 
