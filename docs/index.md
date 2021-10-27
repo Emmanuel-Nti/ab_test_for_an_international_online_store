@@ -18,7 +18,8 @@
    <img src = "Customer Journey.png">
  </p>
  
-## Revenue From Each Group  
+## Revenue From Each Group
+Cummulative revenue from group A exceeds group B
  <p align ="center">
    <img src = "revenue.PNG">
  </p>
