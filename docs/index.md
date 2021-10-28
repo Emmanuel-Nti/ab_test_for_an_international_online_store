@@ -6,12 +6,12 @@
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/ab_test_for_an_international_online_store/blob/master/ab_test_for_international_store.ipynb)
 
 ## How I Approached the Project
-- Importation of the data and Libraries
+- Importation of the data and libraries
 - Preprocessed the data and carried out exploratory data analysis 
 - Evaluated the A/B test results
   - Selected the participants for the test
   - Formulated and tested statistical hypotheses about the test results
-- Conclusion and Recommendations
+- Conclusion and recommendations
  
 ## Customer Journey
 <p align ="center">
