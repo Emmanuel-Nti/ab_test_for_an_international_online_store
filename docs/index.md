@@ -21,8 +21,8 @@
  
 #### Revenue From Each Group
 Cummulative revenue from group A exceeds group B
- <p align ="center">
-   <img src = "revenue.PNG">
+  <p align ="center">
+   <img src = "newplot.png">
  </p>
  
 #### General Findings
