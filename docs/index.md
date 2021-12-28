@@ -46,3 +46,9 @@ Cummulative revenue from group A exceeds group B
 - Plotly 
 - Seaborn
 - Scipy  
+- #### Software and Tools
+![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Numpy-Seaborn-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Plotly-Matplotlib-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Scipy-Datetime-informational?style=flat&color=2bbc8a)
+
